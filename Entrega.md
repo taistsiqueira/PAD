@@ -1,9 +1,11 @@
 Identificação
 ===================
-**Aluno(a): Taís Thomas Siqueira
-**Período: 2/2016
+**Aluno(a):** Taís Thomas Siqueira
+
+**Período:** 2/2016
 
 **Disciplina:**  ELC893 - Programação de Alto Desempenho
+
 **Profª.:** Andrea Charão
 
 
